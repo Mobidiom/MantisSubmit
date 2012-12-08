@@ -1,1 +1,3 @@
 A tool that submits issues to Mantis Bug Tracker.  The tool allows pasting or dragging images to be attached to the issue.
+
+Une application Windows WPF qui soumet des tâches vers Mantis via son API. Cet outil permet également de coller ou déposer des copies d'écran pour les joindre à la soumission.
